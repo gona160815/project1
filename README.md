@@ -4,10 +4,7 @@
 使用技術:Java EE、Oracle資料庫、JDBC
 
 預覽畫面
-img01.jpg
-img02.jpg
-img03.jpg
-
+https://github.com/gona160815/project1/blob/main/img01.jpg
 
 
 
